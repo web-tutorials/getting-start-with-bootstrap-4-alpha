@@ -1,0 +1,22 @@
+{
+  "name": "getting-start-with-bootstrap-4-alpha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/web-tutorials/getting-start-with-bootstrap-4-alpha.git"
+  },
+  "keywords": [
+    "bootstrap"
+  ],
+  "author": "alpha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/web-tutorials/getting-start-with-bootstrap-4-alpha/issues"
+  },
+  "homepage": "https://github.com/web-tutorials/getting-start-with-bootstrap-4-alpha#readme"
+}
